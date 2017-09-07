@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinatorLayout_BehaviorDemo</string>
+    <string name="behavior_my_fab_scale">test.xl.com.coordinatorlayout_behaviordemo.MyFabBehavior</string>
+    <string name="ScaleDownShowBehavior">test.xl.com.coordinatorlayout_behaviordemo.ScaleDownShowBehavior</string>
+</resources>
